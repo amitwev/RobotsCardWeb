@@ -3,7 +3,7 @@ import CardComponents from './CardComponents'
 import SearchBox from './SearchBox';
 import './App.css';
 import Scroll from './Scroll';
-import './Scroll.css';
+
 
 class App extends Component {
 	constructor(){
