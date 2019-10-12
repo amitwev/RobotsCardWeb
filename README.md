@@ -1,2 +1,2 @@
-This is a project that build to learn React
+The first project that built during an internet course. 
 http://robotscard.herokuapp.com/
